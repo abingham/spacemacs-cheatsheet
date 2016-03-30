@@ -2,18 +2,18 @@
 
 ## Navigation
 
-| Action                     | Keys    |
-|----------------------------|---------|
-| up,down,left,right         | k,j,h,l |
-| top of buffer              | gg      |
-| bottom of buffer           | G       |
-| beginning of line          | 0       |
-| first char of line         | ^       |
-| end of line                | $       |
-| goto line N                | SPC y N |
-| goto line                  | SPC y   |
-| start of next word         | w       |
-| end of current word        | e       |
+| Action              | Keys      |
+|---------------------|-----------|
+| up,down,left,right  | `k,j,h,l` |
+| top of buffer       | gg        |
+| bottom of buffer    | G         |
+| beginning of line   | 0         |
+| first char of line  | ^         |
+| end of line         | $         |
+| goto line N         | SPC y N   |
+| goto line           | SPC y     |
+| start of next word  | w         |
+| end of current word | e         |
 
 ## Searching
 
