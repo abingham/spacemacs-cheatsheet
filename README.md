@@ -3,7 +3,7 @@
 ## Navigation
 
 | Action                     | Keys    |
-|----------------------------+---------|
+|----------------------------|---------|
 | up,down,left,right         | k,j,h,l |
 | top of buffer              | gg      |
 | bottom of buffer           | G       |
@@ -17,6 +17,8 @@
 
 ## Searching
 
+| Action                     | Keys      |
+|----------------------------|-----------|
 | first char search          | SPC SPC   |
 | start search               | /<string> |
 | next match                 | n         |
