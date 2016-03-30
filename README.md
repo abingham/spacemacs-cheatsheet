@@ -31,7 +31,7 @@
 ## Editing
 
 | Action                       | Keys        |
-|------------------------------+-------------|
+|------------------------------|-------------|
 | replace character            | r<new char> |
 | insert mode                  | i           |
 | append mode                  | a           |
@@ -52,7 +52,7 @@
 ## Selection
 
 | Action           | Keys  |
-|------------------+-------|
+|------------------|-------|
 | initial expand   | SPC v |
 | expand more      | v     |
 | select within () | vi(   |
@@ -61,7 +61,7 @@
 ## Buffers and files
 
 | Action          | Keys   |
-|-----------------+--------|
+|-----------------|--------|
 | my helm buffers | SPC bb |
 | save buffer     | SPC fs |
 | open file       | SPC ff |
@@ -69,6 +69,6 @@
 ## Misc
 
 | Action                 | Keys       |
-|------------------------+------------|
+|------------------------|------------|
 | repeat last command    | .          |
 | repeat command N times | N<command> |
