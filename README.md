@@ -69,6 +69,7 @@
 ## Misc
 
 | Action                 | Keys       |
-|------------------------|------------|
+|------------------------+------------|
 | repeat last command    | .          |
 | repeat command N times | N<command> |
+| un/comment region      | M-;        |
