@@ -73,3 +73,9 @@
 | repeat last command    | .          |
 | repeat command N times | N<command> |
 | un/comment region      | M-;        |
+
+## Magit
+
+| Action                 | Keys       |
+|------------------------+------------|
+| discard                | x          |
