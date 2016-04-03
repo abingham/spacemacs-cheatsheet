@@ -31,10 +31,12 @@
 ## Editing
 
 | Action                       | Keys        |
-|------------------------------|-------------|
+|------------------------------+-------------|
 | replace character            | r<new char> |
 | insert mode                  | i           |
 | append mode                  | a           |
+| insert at start of line      | I           |
+| insert at end of line        | A           |
 | delete character             | x           |
 | open new line below          | o           |
 | open new line above          | O           |
